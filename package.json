@@ -1,0 +1,24 @@
+{
+  "name": "aula01ppi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasAugustoRodriguesAlves/Aula01PPI.git"
+  },
+  "author": "Eu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasAugustoRodriguesAlves/Aula01PPI/issues"
+  },
+  "homepage": "https://github.com/LucasAugustoRodriguesAlves/Aula01PPI#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
